@@ -5,6 +5,9 @@ If there are similar problems or projects in the future, JI students are respons
 
 The owner of this repository should not be held responsible for anyone else's errors.
 
+### This project is made by group of four persons, and I was resposible for all the coding part and most of electrical & hardware parts. 
+### There's one file of rules and one file of final report besides the code.
+
 # Autonomous Vehicle Control Code for Game Zone Task
 
 ## Overview
